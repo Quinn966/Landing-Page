@@ -16,7 +16,7 @@
   padding: 40px 0;
   width: 100%;
   background-color: rgba(116, 0, 151, 0.74);
-  background-image: url("https://cursos.dankicode.com/app/Views/public/mkt/images/background30.jpg");
+  background-image: url("https://ak.picdn.net/shutterstock/videos/9731900/thumb/1.jpg");
   background-position: center;
   background-size: cover;
   min-height: 400px;
@@ -31,6 +31,8 @@
 
 .menu h3 {
   color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
 }
 
 .menu a {
@@ -101,6 +103,9 @@
   }
 }
 
+.conteudo-single h3{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
 /* .form input[type=text]{
   width: 30%;
   justify-content: space-around;
